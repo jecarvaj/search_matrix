@@ -3,14 +3,14 @@
 require_relative 'lib/search_in_matrix'
 
 # Matrix 1, path exists
-# matrix = [
-#   ['S', ' ', 'X', ' ', ' ', ' '],
-#   [' ', ' ', 'X', ' ', 'X', ' '],
-#   ['X', ' ', 'X', ' ', 'X', ' '],
-#   ['X', ' ', ' ', ' ', ' ', ' '],
-#   ['X', 'X', 'X', 'X', 'X', ' '],
-#   [' ', ' ', ' ', ' ', ' ', 'E']
-# ]
+matrix = [
+  ['S', ' ', 'X', ' ', ' ', ' '],
+  [' ', ' ', 'X', ' ', 'X', ' '],
+  ['X', ' ', 'X', ' ', 'X', ' '],
+  ['X', ' ', ' ', ' ', ' ', ' '],
+  ['X', 'X', 'X', 'X', 'X', ' '],
+  [' ', ' ', ' ', ' ', ' ', 'E']
+]
 
 # uncomment to prove other matrix
 # # Matrix 2, path exists
