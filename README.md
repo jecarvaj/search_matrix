@@ -1,4 +1,9 @@
 # search_matrix
+
+> bundle install
+> 
+> ruby main.rb
+
 Implementa algoritmo de búsqueda recursiva para encontrar la salida desde un inicio a un final en una matriz de 2 dimensiones.
 
 ### Ejemplo 1:
